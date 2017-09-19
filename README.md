@@ -3,7 +3,7 @@ Programming Fundamentals: All assignments with their solutions
 
 ## Course content
 
-1. C# Intro and Basic Syn
+1. C# Intro and Basic Syntax
 2. C# Conditional Statements and Loops
 3. Data Types and Variables
 4. Methods
