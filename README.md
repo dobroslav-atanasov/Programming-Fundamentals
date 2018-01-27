@@ -16,7 +16,7 @@ SoftUni course Programming Fundamentals - May 2017: All tasks with their solutio
 - Regular Expressions
 
 ## Repository content:
-Theme								| Labs																																| Exercises																																	| More Exercises
+Tasks 								| Labs																																| Exercises																																	| More Exercises
 ------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------
 Basic Syntax						| [Lab](https://github.com/dobroslav-atanasov/Programming-Fundamentals/tree/master/01.%20BasicSyntax-Lab)							| [Exercises](https://github.com/dobroslav-atanasov/Programming-Fundamentals/tree/master/02.%20BasicSyntax-Exercises)						| [More Exercises](https://github.com/dobroslav-atanasov/Programming-Fundamentals/tree/master/05.%20BasicSyntax-MoreExercises)	
 Conditional Statements and Loops	| [Lab](https://github.com/dobroslav-atanasov/Programming-Fundamentals/tree/master/03.%20ConditionalStatementsAndLoops-Lab)			| [Exercises](https://github.com/dobroslav-atanasov/Programming-Fundamentals/tree/master/04.%20ConditionalStatementsAndLoops-Exercises)	
